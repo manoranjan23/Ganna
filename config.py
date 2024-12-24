@@ -86,13 +86,13 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://iili.io/2uvE6Cl.md.jpg"
+    "START_IMG_URL", "https://envs.sh/JBB.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://iili.io/2M6pEs1.md.jpg"
+    "PING_IMG_URL", "https://envs.sh/7wc.jpg"
 )
 PLAYLIST_IMG_URL = "https://iili.io/2uvE6Cl.md.jpg"
-STATS_IMG_URL = "https://telegra.ph/file/2abd798099b17a5a9b2fb.jpg"
+STATS_IMG_URL = "https://envs.sh/JWK.jpg"
 TELEGRAM_AUDIO_URL = "https://graph.org/file/a834c4bd7bbe22f55a475.jpg"
 TELEGRAM_VIDEO_URL = "https://graph.org/file/dd84a3ccf42bead1a203a.jpg"
 STREAM_IMG_URL = "https://telegra.ph/file/982b01ba53c3d69b0d0ce.jpg"
