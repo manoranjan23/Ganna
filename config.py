@@ -91,7 +91,7 @@ START_IMG_URL = getenv(
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://envs.sh/7wc.jpg"
 )
-PLAYLIST_IMG_URL = "https://iili.io/2uvE6Cl.md.jpg"
+PLAYLIST_IMG_URL = "https://envs.sh/JZ4.jpg"
 STATS_IMG_URL = "https://envs.sh/JWK.jpg"
 TELEGRAM_AUDIO_URL = "https://graph.org/file/a834c4bd7bbe22f55a475.jpg"
 TELEGRAM_VIDEO_URL = "https://graph.org/file/dd84a3ccf42bead1a203a.jpg"
